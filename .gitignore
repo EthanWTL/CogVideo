@@ -1,3 +1,4 @@
+huggingface/
 *__pycache__/
 samples*/
 runs/
